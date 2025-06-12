@@ -1,0 +1,1 @@
+This is the code that complements my 4th year dissertation project for the Department of Mathematical Sciences, Durham University, titled `Low-reynold's number flows and their applications in the mathematical modelling of the capillary microcirculation'.
